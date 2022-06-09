@@ -1,8 +1,6 @@
 // Import stylesheets
 import './style.css';
 
-//example link, Array Carousel looping % :https://benfrain.com/looping-infinitely-around-an-array-in-javascript/
-
 // Write Javascript code!
 var item = document.querySelector('.item');
 var readout = document.querySelector('.readout');
